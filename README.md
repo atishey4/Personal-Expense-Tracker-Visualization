@@ -6,20 +6,15 @@ A Python-based personal finance project that ingests bank-style CSV data, stores
 
 ## Screenshots
 
-### Streamlit Dashboard
-![Streamlit Dashboard](screenshots/dashboard.png)
+![Screenshot 1094](screenshots/Screenshot%20(1094).png)
 
-### Monthly Trend
-![Monthly Trend](screenshots/monthly_trend.png)
+![Screenshot 1095](screenshots/Screenshot%20(1095).png)
 
-### Category-wise Spending
-![Category Bar Chart](screenshots/category_bar.png)
+![Screenshot 1096](screenshots/Screenshot%20(1096).png)
 
-### Payment Method Split
-![Payment Method Pie Chart](screenshots/payment_pie.png)
+![Screenshot 1097](screenshots/Screenshot%20(1097).png)
 
-### Budget vs Actual
-![Budget vs Actual](screenshots/budget_vs_actual.png)
+![Screenshot 1098](screenshots/Screenshot%20(1098).png)
 
 ## Project Overview
 
