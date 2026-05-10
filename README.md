@@ -4,6 +4,23 @@
 
 A Python-based personal finance project that ingests bank-style CSV data, stores transactions in SQLite, categorizes expenses with rule-based matching, generates visual reports, exports monthly Excel summaries, and provides an interactive Streamlit dashboard.
 
+## Screenshots
+
+### Streamlit Dashboard
+![Streamlit Dashboard](screenshots/dashboard.png)
+
+### Monthly Trend
+![Monthly Trend](screenshots/monthly_trend.png)
+
+### Category-wise Spending
+![Category Bar Chart](screenshots/category_bar.png)
+
+### Payment Method Split
+![Payment Method Pie Chart](screenshots/payment_pie.png)
+
+### Budget vs Actual
+![Budget vs Actual](screenshots/budget_vs_actual.png)
+
 ## Project Overview
 
 Personal Expense Tracker Visualization helps users analyze income, expenses, savings, category-wise spending, payment method usage, and monthly budget performance. The project is designed as a complete beginner-to-intermediate data analytics workflow using realistic personal finance data.
@@ -51,6 +68,7 @@ Personal-Expense-Tracker-Visualization/
 |   `-- budget_vs_actual.png
 |-- reports/
 |   `-- expense_report_2025-06.xlsx
+|-- screenshots/
 |-- src/
 |   |-- analyze.py
 |   |-- app_streamlit.py
@@ -60,6 +78,7 @@ Personal-Expense-Tracker-Visualization/
 |   |-- models.py
 |   |-- plots.py
 |   `-- report.py
+|-- tools/
 |-- main.py
 |-- requirements.txt
 `-- README.md
